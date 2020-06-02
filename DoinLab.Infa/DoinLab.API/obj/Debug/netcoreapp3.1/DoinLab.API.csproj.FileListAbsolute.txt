@@ -1,0 +1,12 @@
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\bin\Debug\netcoreapp3.1\DoinLab.API.exe
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\obj\Debug\netcoreapp3.1\DoinLab.API.csprojAssemblyReference.cache
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\obj\Debug\netcoreapp3.1\DoinLab.API.AssemblyInfoInputs.cache
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\obj\Debug\netcoreapp3.1\DoinLab.API.AssemblyInfo.cs
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\obj\Debug\netcoreapp3.1\DoinLab.API.RazorTargetAssemblyInfo.cache
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\obj\Debug\netcoreapp3.1\staticwebassets\DoinLab.API.StaticWebAssets.Manifest.cache
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\obj\Debug\netcoreapp3.1\staticwebassets\DoinLab.API.StaticWebAssets.xml
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\obj\Debug\netcoreapp3.1\DoinLab.API.csproj.CopyComplete

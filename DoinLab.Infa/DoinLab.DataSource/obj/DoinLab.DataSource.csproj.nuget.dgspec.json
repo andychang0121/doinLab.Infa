@@ -38,6 +38,36 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Dapper.EntityFramework": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Dapper.EntityFramework.StrongName": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Dapper.Rainbow": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Dapper.SqlBuilder": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Dapper.StrongName": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

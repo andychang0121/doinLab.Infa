@@ -1,0 +1,17 @@
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\bin\Debug\netcoreapp3.1\DoinLab.DataSource.exe
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\obj\Debug\netcoreapp3.1\DoinLab.DataSource.csprojAssemblyReference.cache
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\obj\Debug\netcoreapp3.1\DoinLab.DataSource.AssemblyInfoInputs.cache
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\obj\Debug\netcoreapp3.1\DoinLab.DataSource.AssemblyInfo.cs
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\obj\Debug\netcoreapp3.1\DoinLab.DataSource.RazorTargetAssemblyInfo.cache
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\obj\Debug\netcoreapp3.1\staticwebassets\DoinLab.DataSource.StaticWebAssets.Manifest.cache
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\obj\Debug\netcoreapp3.1\staticwebassets\DoinLab.DataSource.StaticWebAssets.xml
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\obj\Debug\netcoreapp3.1\DoinLab.DataSource.csproj.CopyComplete
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\bin\Debug\netcoreapp3.1\Dapper.Contrib.dll
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\bin\Debug\netcoreapp3.1\Dapper.SqlBuilder.dll
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\bin\Debug\netcoreapp3.1\Dapper.StrongName.dll
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\bin\Debug\netcoreapp3.1\Dapper.Rainbow.dll
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\bin\Debug\netcoreapp3.1\Dapper.EntityFramework.dll

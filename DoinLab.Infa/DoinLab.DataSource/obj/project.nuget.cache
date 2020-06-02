@@ -1,8 +1,40 @@
 {
   "version": 2,
-  "dgSpecHash": "U48JHtKsPAWMbE3Hs8Zsol+r7zKQUgGMEdAt1trwi/VFOecTS8DzsHX2CgPRS0WRNG6XK9T6DJyIoTwx+jV2Eg==",
+  "dgSpecHash": "HhWM7ypG0vfZjXvOF1Q9ggr1aVub03FyxsRrFrp/7X7iCCo/lcqAX3w/ng9wlbU9XgomEq122LUAH7W18p0tDA==",
   "success": true,
   "projectFilePath": "C:\\Users\\g-andychang\\source\\repos\\andychang0121\\doinLab.Infa\\DoinLab.Infa\\DoinLab.DataSource\\DoinLab.DataSource.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\g-andychang\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
+    "C:\\Users\\g-andychang\\.nuget\\packages\\dapper.contrib\\2.0.35\\dapper.contrib.2.0.35.nupkg.sha512",
+    "C:\\Users\\g-andychang\\.nuget\\packages\\dapper.entityframework\\2.0.35\\dapper.entityframework.2.0.35.nupkg.sha512",
+    "C:\\Users\\g-andychang\\.nuget\\packages\\dapper.entityframework.strongname\\2.0.35\\dapper.entityframework.strongname.2.0.35.nupkg.sha512",
+    "C:\\Users\\g-andychang\\.nuget\\packages\\dapper.rainbow\\2.0.35\\dapper.rainbow.2.0.35.nupkg.sha512",
+    "C:\\Users\\g-andychang\\.nuget\\packages\\dapper.sqlbuilder\\2.0.35\\dapper.sqlbuilder.2.0.35.nupkg.sha512",
+    "C:\\Users\\g-andychang\\.nuget\\packages\\dapper.strongname\\2.0.35\\dapper.strongname.2.0.35.nupkg.sha512",
+    "C:\\Users\\g-andychang\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\g-andychang\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\g-andychang\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 '.NETCoreApp,Version=v3.1' 還原了套件 'Dapper.EntityFramework 2.0.35'。此套件與您的專案並非完全相容。",
+      "libraryId": "Dapper.EntityFramework",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 '.NETCoreApp,Version=v3.1' 還原了套件 'Dapper.EntityFramework.StrongName 2.0.35'。此套件與您的專案並非完全相容。",
+      "libraryId": "Dapper.EntityFramework.StrongName",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
