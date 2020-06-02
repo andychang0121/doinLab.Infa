@@ -2,7 +2,7 @@
 
 namespace DoinLab.Helper
 {
-    public class Class1
+    public static partial class CommHelper
     {
     }
 }

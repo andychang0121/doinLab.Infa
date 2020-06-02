@@ -5,9 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Handler\" />
-    <Folder Include="Model\Response\" />
-    <Folder Include="Model\Request\" />
+    <Folder Include="_Handler\" />
+    <Folder Include="Models\Response\" />
+    <Folder Include="Models\Request\" />
+    <Folder Include="_Extension\" />
   </ItemGroup>
 
   <ItemGroup>
