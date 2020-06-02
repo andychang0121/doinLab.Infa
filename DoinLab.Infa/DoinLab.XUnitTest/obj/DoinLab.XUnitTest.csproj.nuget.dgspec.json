@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\g-andychang\\source\\repos\\andychang0121\\doinLab.Infa\\DoinLab.Infa\\DoinLab.Web\\DoinLab.Web.csproj": {}
+    "C:\\Users\\g-andychang\\source\\repos\\andychang0121\\doinLab.Infa\\DoinLab.Infa\\DoinLab.XUnitTest\\DoinLab.XUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\g-andychang\\source\\repos\\andychang0121\\doinLab.Infa\\DoinLab.Infa\\DoinLab.Web\\DoinLab.Web.csproj": {
+    "C:\\Users\\g-andychang\\source\\repos\\andychang0121\\doinLab.Infa\\DoinLab.Infa\\DoinLab.XUnitTest\\DoinLab.XUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\g-andychang\\source\\repos\\andychang0121\\doinLab.Infa\\DoinLab.Infa\\DoinLab.Web\\DoinLab.Web.csproj",
-        "projectName": "DoinLab.Web",
-        "projectPath": "C:\\Users\\g-andychang\\source\\repos\\andychang0121\\doinLab.Infa\\DoinLab.Infa\\DoinLab.Web\\DoinLab.Web.csproj",
+        "projectUniqueName": "C:\\Users\\g-andychang\\source\\repos\\andychang0121\\doinLab.Infa\\DoinLab.Infa\\DoinLab.XUnitTest\\DoinLab.XUnitTest.csproj",
+        "projectName": "DoinLab.XUnitTest",
+        "projectPath": "C:\\Users\\g-andychang\\source\\repos\\andychang0121\\doinLab.Infa\\DoinLab.Infa\\DoinLab.XUnitTest\\DoinLab.XUnitTest.csproj",
         "packagesPath": "C:\\Users\\g-andychang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\g-andychang\\source\\repos\\andychang0121\\doinLab.Infa\\DoinLab.Infa\\DoinLab.Web\\obj\\",
+        "outputPath": "C:\\Users\\g-andychang\\source\\repos\\andychang0121\\doinLab.Infa\\DoinLab.Infa\\DoinLab.XUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\g-andychang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,27 +39,21 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+            "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[3.1.4, )"
+              "version": "[16.5.0, )"
             },
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+            "coverlet.collector": {
               "target": "Package",
-              "version": "[3.1.4, )"
+              "version": "[1.2.0, )"
             },
-            "Microsoft.AspNetCore.Identity.UI": {
+            "xunit": {
               "target": "Package",
-              "version": "[3.1.4, )"
+              "version": "[2.4.0, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "xunit.runner.visualstudio": {
               "target": "Package",
-              "version": "[3.1.4, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[3.1.4, )"
+              "version": "[2.4.0, )"
             }
           },
           "imports": [
@@ -73,9 +67,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

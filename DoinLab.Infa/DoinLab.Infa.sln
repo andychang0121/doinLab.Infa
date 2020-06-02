@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoinLab.Web", "DoinLab.Web\DoinLab.Web.csproj", "{C0E994ED-F50C-4CCE-A959-A1A4CC8BA8F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoinLab.Web", "DoinLab.Web\DoinLab.Web.csproj", "{C0E994ED-F50C-4CCE-A959-A1A4CC8BA8F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoinLab.XUnitTest", "DoinLab.XUnitTest\DoinLab.XUnitTest.csproj", "{97DC8854-59A9-4D83-B2A0-00AAF7266211}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoinLab.API", "DoinLab.API\DoinLab.API.csproj", "{62E7D09C-0CBE-434B-8B07-AB8DB02966BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoinLab.DataSource", "DoinLab.DataSource\DoinLab.DataSource.csproj", "{3EE8A3DF-3AFE-41C2-86C6-A3F848E285A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoinLab.Helper", "DoinLab.Helper\DoinLab.Helper.csproj", "{D422C207-5DDF-487D-B7B1-0D68E9FB2DA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{C0E994ED-F50C-4CCE-A959-A1A4CC8BA8F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0E994ED-F50C-4CCE-A959-A1A4CC8BA8F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0E994ED-F50C-4CCE-A959-A1A4CC8BA8F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97DC8854-59A9-4D83-B2A0-00AAF7266211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DC8854-59A9-4D83-B2A0-00AAF7266211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DC8854-59A9-4D83-B2A0-00AAF7266211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DC8854-59A9-4D83-B2A0-00AAF7266211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E7D09C-0CBE-434B-8B07-AB8DB02966BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E7D09C-0CBE-434B-8B07-AB8DB02966BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E7D09C-0CBE-434B-8B07-AB8DB02966BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E7D09C-0CBE-434B-8B07-AB8DB02966BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EE8A3DF-3AFE-41C2-86C6-A3F848E285A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE8A3DF-3AFE-41C2-86C6-A3F848E285A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE8A3DF-3AFE-41C2-86C6-A3F848E285A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE8A3DF-3AFE-41C2-86C6-A3F848E285A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D422C207-5DDF-487D-B7B1-0D68E9FB2DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D422C207-5DDF-487D-B7B1-0D68E9FB2DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D422C207-5DDF-487D-B7B1-0D68E9FB2DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D422C207-5DDF-487D-B7B1-0D68E9FB2DA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
