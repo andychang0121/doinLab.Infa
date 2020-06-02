@@ -10,3 +10,14 @@ C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLa
 C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\obj\Debug\netcoreapp3.1\staticwebassets\DoinLab.API.StaticWebAssets.xml
 C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\obj\Debug\netcoreapp3.1\DoinLab.API.csproj.CopyComplete
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\bin\Debug\netcoreapp3.1\DoinLab.API.deps.json
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\bin\Debug\netcoreapp3.1\DoinLab.API.runtimeconfig.json
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\bin\Debug\netcoreapp3.1\DoinLab.API.runtimeconfig.dev.json
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\bin\Debug\netcoreapp3.1\DoinLab.API.dll
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\bin\Debug\netcoreapp3.1\DoinLab.API.pdb
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\obj\Debug\netcoreapp3.1\DoinLab.API.csproj.CoreCompileInputs.cache
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\obj\Debug\netcoreapp3.1\DoinLab.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\obj\Debug\netcoreapp3.1\DoinLab.API.dll
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\obj\Debug\netcoreapp3.1\DoinLab.API.pdb
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.API\obj\Debug\netcoreapp3.1\DoinLab.API.genruntimeconfig.cache

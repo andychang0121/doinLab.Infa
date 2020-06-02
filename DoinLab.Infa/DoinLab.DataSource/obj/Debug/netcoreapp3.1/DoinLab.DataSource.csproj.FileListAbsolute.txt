@@ -51,3 +51,13 @@ C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLa
 C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
 C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
 C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\bin\Debug\netcoreapp3.1\DoinLab.DataSource.deps.json
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\bin\Debug\netcoreapp3.1\DoinLab.DataSource.runtimeconfig.json
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\bin\Debug\netcoreapp3.1\DoinLab.DataSource.runtimeconfig.dev.json
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\bin\Debug\netcoreapp3.1\DoinLab.DataSource.dll
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\bin\Debug\netcoreapp3.1\DoinLab.DataSource.pdb
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\obj\Debug\netcoreapp3.1\DoinLab.DataSource.csproj.CoreCompileInputs.cache
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\obj\Debug\netcoreapp3.1\DoinLab.DataSource.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\obj\Debug\netcoreapp3.1\DoinLab.DataSource.dll
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\obj\Debug\netcoreapp3.1\DoinLab.DataSource.pdb
+C:\Users\g-andychang\source\repos\andychang0121\doinLab.Infa\DoinLab.Infa\DoinLab.DataSource\obj\Debug\netcoreapp3.1\DoinLab.DataSource.genruntimeconfig.cache
