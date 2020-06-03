@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\g-andychang\\source\\repos\\andychang0121\\doinLab.Infa\\DoinLab.Infa\\DoinLab.API\\DoinLab.API.csproj": {}
+    "D:\\Projects\\doinLab.Infa\\DoinLab.Infa\\DoinLab.API\\DoinLab.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\g-andychang\\source\\repos\\andychang0121\\doinLab.Infa\\DoinLab.Infa\\DoinLab.API\\DoinLab.API.csproj": {
+    "D:\\Projects\\doinLab.Infa\\DoinLab.Infa\\DoinLab.API\\DoinLab.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\g-andychang\\source\\repos\\andychang0121\\doinLab.Infa\\DoinLab.Infa\\DoinLab.API\\DoinLab.API.csproj",
+        "projectUniqueName": "D:\\Projects\\doinLab.Infa\\DoinLab.Infa\\DoinLab.API\\DoinLab.API.csproj",
         "projectName": "DoinLab.API",
-        "projectPath": "C:\\Users\\g-andychang\\source\\repos\\andychang0121\\doinLab.Infa\\DoinLab.Infa\\DoinLab.API\\DoinLab.API.csproj",
-        "packagesPath": "C:\\Users\\g-andychang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\g-andychang\\source\\repos\\andychang0121\\doinLab.Infa\\DoinLab.Infa\\DoinLab.API\\obj\\",
+        "projectPath": "D:\\Projects\\doinLab.Infa\\DoinLab.Infa\\DoinLab.API\\DoinLab.API.csproj",
+        "packagesPath": "C:\\Users\\andy_\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\doinLab.Infa\\DoinLab.Infa\\DoinLab.API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\g-andychang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andy_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://alpha-GTWNuget.com/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
